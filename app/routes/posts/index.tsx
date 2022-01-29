@@ -11,7 +11,7 @@ export default function Posts() {
             <Link to="new">Nea Feature</Link>
             <Link to="new">World</Link>
 
-            <Link to="new">Master thingkeldnsja</Link>
+            <Link to="new">Will get removed soon</Link>
             <Outlet />
         </div>
     )
