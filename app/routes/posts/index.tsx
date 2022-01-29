@@ -9,6 +9,7 @@ export default function Posts() {
         <div>
             <h1>Index Route</h1>
             <Link to="new">Nea Feature</Link>
+            <Link to="new">Master thingkeldnsja</Link>
             <Outlet />
         </div>
     )
