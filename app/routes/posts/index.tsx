@@ -8,10 +8,7 @@ export default function Posts() {
     return (
         <div>
             <h1>Index Route</h1>
-            <Link to="new">Nea Feature</Link>
-            <Link to="new">World</Link>
-
-            <Link to="new">Will get removed soon</Link>
+            <Link to="new">New Route</Link>
             <Outlet />
         </div>
     )
